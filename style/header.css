@@ -1,0 +1,35 @@
+header {
+  background-image: url("./images/cielo.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+  margin-top: 50px;
+  text-align: center;
+}
+
+.pokebola {
+  width: 150px;
+}
+
+.pokemonGo {
+  height: 200px;
+}
+
+.tituloBuscarPokemon {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  size: 100cm;
+  color: rgb(255, 203, 9);
+  text-shadow: 0 0 15px rgb(14, 3, 226);
+}
+
+.pikaBuscador {
+  width: 60px;
+  height: 60px;
+}/*# sourceMappingURL=header.css.map */
